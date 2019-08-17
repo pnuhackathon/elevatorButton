@@ -4,19 +4,27 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/ic_launcher_dark"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/ic_launcher_dark_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Out_btn_Activity"></activity>
-        <activity android:name=".In_btn_Activity" />
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplahTheme"
+            android:screenOrientation="portrait">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <activity android:name=".Out_btn_Activity"></activity>
+        <activity android:name=".In_btn_Activity" />
+        <activity android:name=".MainActivity">
+
         </activity>
     </application>
 
