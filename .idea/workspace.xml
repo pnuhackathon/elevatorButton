@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1922fd0-bf3f-4f6b-84df-c1e7c7192e61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/InsideFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/OutsideFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/res/layout/fragment_inside.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/res/layout/fragment_outside.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/In_btn_Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/Out_btn_Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/res/layout/activity_in_btn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/res/layout/activity_out_btn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator_btn/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/build.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="470382051">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/aa/StudyRoomSystem" value="PREVIEW" />
+        <entry key="D:/made_App/elevatorApp/StudyRoomSystem" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="y" value="5" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1922fd0-bf3f-4f6b-84df-c1e7c7192e61" name="Default Changelist" comment="" />
+      <created>1566391892381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566391892381</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32980832" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

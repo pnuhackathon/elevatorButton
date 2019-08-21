@@ -21,8 +21,6 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".Out_btn_Activity"></activity>
-        <activity android:name=".In_btn_Activity" />
         <activity android:name=".MainActivity">
 
         </activity>
