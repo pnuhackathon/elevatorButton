@@ -12,19 +12,10 @@ buildscript {
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
         classpath 'com.google.gms:google-services:4.2.0'
-<<<<<<< HEAD
+
     }
 }
 
-allprojects {
-    repositories {
-        google()
-        jcenter()
-        
-    }
-=======
-    }
-}
 
 allprojects {
     repositories {
@@ -34,10 +25,6 @@ allprojects {
     }
 }
 
-task clean(type: Delete) {
-    delete rootProject.buildDir
->>>>>>> b27326a7e0ceac49fce0e800e2b1a3dbf596836a
-}
 
 task clean(type: Delete) {
     delete rootProject.buildDir
