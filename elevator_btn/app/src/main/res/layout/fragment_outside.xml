@@ -8,6 +8,7 @@ android:background="@drawable/bg"
 tools:context=".OutsideFragment">
 
 
+
 <ImageButton
     android:id="@+id/out_one"
     style="@android:style/Widget.ImageButton"

@@ -2,41 +2,61 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
 android:orientation="vertical" android:layout_width="match_parent"
 android:layout_height="match_parent"
+    android:background="@drawable/bg"
 >
-
-    <Button
-        android:layout_marginTop="20dp"
-        android:layout_width="150dp"
-        android:layout_height="130dp"
-        android:id="@+id/in_one"
-        android:textSize="32sp"
-        android:text="1"
+    <TextView
+        android:layout_marginTop="80dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:layout_centerHorizontal="true"
-        android:layout_gravity="center"
+        android:textColor="#ffffffff"
+        android:id="@+id/text1"
+        android:text="" />
+
+    <ImageButton
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="400dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/in_one"
+
+        android:layout_marginLeft="90dp"
+        android:scaleType="fitCenter"
+        android:background="@android:color/transparent"
+        android:src="@drawable/one_unclicked"
         />
-    <Button
-        android:layout_width="150dp"
-        android:layout_height="130dp"
+    <ImageButton
+        android:layout_marginTop="400dp"
+        android:layout_marginBottom="15dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:id="@+id/in_two"
         android:textSize="32sp"
-        android:layout_below="@id/in_one"
-        android:layout_centerHorizontal="true"
-        android:text="2" />
-    <Button
-        android:layout_width="150dp"
-        android:layout_height="130dp"
+        android:layout_marginLeft="230dp"
+        android:scaleType="fitCenter"
+        android:background="@android:color/transparent"
+        android:src="@drawable/two_unclicked" />
+    <ImageButton
+        android:layout_marginTop="530dp"
+        android:layout_marginBottom="80dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:id="@+id/in_three"
         android:textSize="32sp"
-        android:layout_below="@id/in_two"
-        android:layout_centerHorizontal="true"
-        android:text="3" />
-    <Button
-        android:layout_width="150dp"
-        android:layout_height="130dp"
+        android:layout_marginLeft="90dp"
+        android:scaleType="fitCenter"
+        android:background="@android:color/transparent"
+        android:src="@drawable/three_unclicked" />
+    <ImageButton
+        android:layout_marginTop="530dp"
+        android:layout_marginLeft="230dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:id="@+id/in_four"
         android:textSize="32sp"
-        android:layout_below="@id/in_three"
-        android:layout_centerHorizontal="true"
-        android:text="4" />
+        android:layout_marginBottom="80dp"
+        android:scaleType="fitCenter"
+        android:background="@android:color/transparent"
+        android:src="@drawable/four_unclicked" />
 
 </RelativeLayout>
