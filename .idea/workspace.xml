@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1922fd0-bf3f-4f6b-84df-c1e7c7192e61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elevator_btn/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elevator_btn/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/InsideFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/InsideFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/OutsideFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/app/src/main/java/com/example/elevator_btn/OutsideFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elevator_btn/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/elevator_btn/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,28 +10,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="470382051">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elevator_btn/app/src/main/res/layout/fragment_inside.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="D:/aa/StudyRoomSystem" value="PREVIEW" />
-        <entry key="D:/made_App/elevatorApp/StudyRoomSystem" value="PREVIEW" />
-      </map>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-5" />
@@ -51,14 +37,69 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="elevatorButton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elevatorButton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elevatorButton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elevatorButton" type="462c0819:PsiDirectoryNode" />
+              <item name="elevator_btn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elevatorButton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elevatorButton" type="462c0819:PsiDirectoryNode" />
+              <item name="elevator_btn" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elevatorButton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elevatorButton" type="462c0819:PsiDirectoryNode" />
+              <item name="elevator_btn" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elevatorButton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elevatorButton" type="462c0819:PsiDirectoryNode" />
+              <item name="elevator_btn" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elevatorButton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elevatorButton" type="462c0819:PsiDirectoryNode" />
+              <item name="elevator_btn" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elevatorButton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elevatorButton" type="462c0819:PsiDirectoryNode" />
+              <item name="elevator_btn" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/elevator_btn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/elevator_btn/app" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -87,10 +128,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Resources Explorer" />
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32980832" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33315566" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -100,13 +143,20 @@
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Preview" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/elevator_btn/app/src/main/res/layout/fragment_inside.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
